@@ -18,7 +18,7 @@ p {
 
 .blog-image {
   display: block;
-  max-width: 600px;
+  max-width: 400px;
   width: 100%;
   height: auto;
   margin: 20px auto;
@@ -28,7 +28,7 @@ p {
 
 iframe.map-frame {
   width: 100%;
-  max-width: 600px;
+  max-width: 400px;
   height: 300px;
   border: none;
   margin: 30px auto;
@@ -43,3 +43,4 @@ footer {
   color: #777;
   border-top: 1px solid #ddd;
 }
+
